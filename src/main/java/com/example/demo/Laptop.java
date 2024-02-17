@@ -4,7 +4,9 @@ import org.springframework.stereotype.Component;
 
 @Component("lap1")
 public class Laptop {
-	
+
+
+	//Hi i am chotuuu
 	private int lid;
 	private String brand;
 	public int getLid() {
